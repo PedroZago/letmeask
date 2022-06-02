@@ -46,7 +46,7 @@ $ yarn start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website **  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Firebase](https://firebase.google.com/)**
 
